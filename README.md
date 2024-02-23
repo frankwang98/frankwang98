@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @Frank-Wang98.
-- 👀 I’m interested in Autonomous Driving.
-- 🌱 I’m currently learning C/C++ and MATLAB.
-- 💞️ I’m looking to collaborate on Autonomous driving industry.
+### Hi there 👋 This is frankwang98 ！✨ 
 
-<!-- ![snake](https://raw.githubusercontent.com/frankwang98/frankwang98/output/github-contribution-grid-snake.svg) -->
+![Followers](https://img.shields.io/github/followers/frankwang98?label=Followers&style=plastic)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/frankwang98)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](frankwang9821@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankwang98)](https://github.com/anuraghazra/github-readme-stats)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=frankwang98&show_icons=true&hide_border=true" />
 
-<!---
-Frank-Wang98/Frank-Wang98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🌱 Things I am currently working on 🌱 : 
+- Autonomous vehicle
+- Robot
+ 
+#### 🌻 I am studying 🌻
+- C/C++
+- Python/Shell
+- English
+
+#### :computer: Programming languages and tools :computer: : 
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
+</p>
