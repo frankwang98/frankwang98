@@ -7,8 +7,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=frankwang98&show_icons=true&hide_border=true" />
 
 #### 🌱 Things I am currently working on 🌱 : 
-- Autonomous vehicle
-- Robot
+- Robot&Autonomous_vehicle
  
 #### 🌻 I am studying 🌻
 - C/C++/Python/Go/Java/Javascript
