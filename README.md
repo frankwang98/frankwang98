@@ -11,9 +11,7 @@
 - Robot
  
 #### 🌻 I am studying 🌻
-- C/C++
-- Python/Shell
-- English
+- C/C++/Python/Go/Java/Javascript
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
