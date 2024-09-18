@@ -1,5 +1,6 @@
 ### Hi there 👋 This is frankwang98 ！✨ 
 
+![](https://komarev.com/ghpvc/?username=frankwang98&color=blue)
 ![Followers](https://img.shields.io/github/followers/frankwang98?label=Followers&style=plastic)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/frankwang98)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](frankwang9821@gmail.com)
