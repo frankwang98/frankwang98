@@ -11,7 +11,8 @@
 - Robot&Autonomous_vehicle
  
 #### 🌻 I am studying 🌻
-- C/C++/Python/Go/Java/Javascript
+- C++/Python/Node
+- Qt/ROS
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
