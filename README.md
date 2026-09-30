@@ -44,7 +44,7 @@ I'm a software engineer interested in robotics, autonomous driving, and develope
 |---|---|
 | [ROS2Drive](https://github.com/frankwang98/ROS2Drive) | A multi-scenario autonomous driving stack built on ROS 2. ROS 2 驱动的多场景自动驾驶软件栈。 |
 | [ROS2Drive-Cloud](https://github.com/frankwang98/ROS2Drive-Cloud) | Cloud services for vehicle management, mission dispatch, monitoring, telemetry, replay, and remote operation. |
-| [UsefulToolbox](https://github.com/frankwang98/UsefulToolbox) | A PC toolbox inspired by the Lemon Toolbox mini program. 柠檬百宝盒 PC 端工具集合。 |
+| [ModernLife101](https://github.com/frankwang98/ModernLife101) | A guide to understanding the modern world through short reads and exploration. 现代世界生存与探索指南。 |
 | [qt_custom_widget](https://github.com/frankwang98/qt_custom_widget) | Reusable custom widgets for Qt applications. Qt 应用的自定义控件集合。 |
 
 > The projects above reflect my current interests and ongoing work. For older experiments and archived repositories, please see the full [repository list](https://github.com/frankwang98?tab=repositories).
@@ -55,6 +55,8 @@ I'm a software engineer interested in robotics, autonomous driving, and develope
 |---|---|
 | [Awesome Hub](https://frankwang98.asia/awesome_hub/) | Technology, C++, ROS2, autonomous driving, and embodied intelligence. |
 | [Education Hub](https://frankwang98.asia/education_hub/) | Fundamentals, general knowledge, and lifelong learning. 基础知识、通识教育与终身学习。 |
+| [ModernLife101](https://frankwang98.asia/ModernLife101/) | Short reads and exploration for understanding the modern world. |
+| [WebAtlas](https://frankwang98.asia/webnav/) | My maintained directory of useful sites, apps, and project entries. |
 | [Personal Website](https://frankwang98.asia/) | A unified entrance to my projects, notes, and articles. |
 | [Articles](https://devfrank.blog.csdn.net/) | Engineering practice, troubleshooting, and lessons learned. |
 
