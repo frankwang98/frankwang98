@@ -47,10 +47,20 @@
 
 | Project | Description |
 |---|---|
+| [ROS2Drive](https://github.com/frankwang98/ROS2Drive) | ROS2 / C++ 低速无人车辆运行时参考实现，持续建设中 |
 | [CloudViewer](https://github.com/frankwang98/CloudViewer) | C++ / Qt / PCL 点云可视化桌面软件 |
 | [UsefulToolbox](https://github.com/frankwang98/UsefulToolbox) | 柠檬百宝盒 PC 端工具集合 |
-| [mysetuptool](https://github.com/frankwang98/mysetuptool) | Python 开发环境部署工具 |
-| [devfrank_cpp](https://github.com/frankwang98/devfrank_cpp) | C++ 与系统编程知识整理 |
+
+### 📚 Knowledge & Writing
+
+| Entry | Focus |
+|---|---|
+| [Awesome Hub](https://frankwang98.asia/awesome_hub/) | C++、ROS2、自动驾驶与具身智能的技术知识体系 |
+| [Education Hub](https://frankwang98.asia/education_hub/) | 基础知识、通识教育与终身学习 |
+| [Personal Website](https://frankwang98.asia/) | 项目、知识与文章的统一入口 |
+| [Articles](https://devfrank.blog.csdn.net/) | 工程实践、问题记录与经验分享 |
+
+项目仓库维护代码与实现文档，知识库沉淀可复用的方法，文章分享实践过程。
 
 <p align="center">
   <a href="https://frankwang98.asia/">Pages</a> ·
