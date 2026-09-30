@@ -55,8 +55,6 @@ I'm a software engineer interested in robotics, autonomous driving, and develope
 |---|---|
 | [Awesome Hub](https://frankwang98.asia/awesome_hub/) | Technology, C++, ROS2, autonomous driving, and embodied intelligence. |
 | [Education Hub](https://frankwang98.asia/education_hub/) | Fundamentals, general knowledge, and lifelong learning. 基础知识、通识教育与终身学习。 |
-| [ModernLife101](https://frankwang98.asia/ModernLife101/) | Short reads and exploration for understanding the modern world. |
-| [WebAtlas](https://frankwang98.asia/webnav/) | My maintained directory of useful sites, apps, and project entries. |
 | [Personal Website](https://frankwang98.asia/) | A unified entrance to my projects, notes, and articles. |
 | [Articles](https://devfrank.blog.csdn.net/) | Engineering practice, troubleshooting, and lessons learned. |
 
